@@ -1,7 +1,10 @@
+var currentModal = "Maddox";
+var modal = document.getElementById(currentModal);
+
 function loginscript() {
     let uname = prompt("username?")
     let pword = prompt("password?")
-    if (uname == "Devon_F_Neo+Ultimate" && pword == "Wth3Power0fNEO!!!!!!!!") {
+    if (uname == "Devon" && pword == "12345") {
         currentModal = "DevonSheo";
         modal = document.getElementById(currentModal);
         alert(currentModal);
