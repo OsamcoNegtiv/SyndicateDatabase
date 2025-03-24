@@ -4,11 +4,14 @@ var modal = document.getElementById(currentModal);
 function loginscript() {
     let uname = prompt("username?")
     let pword = prompt("password?")
-    if (uname == "Devon" && pword == "12345") {
-        currentModal = "DevonSheo";
+    if (uname == "Carson" && pword == "Ilikehandstanding") {
+        currentModal = "Carson";
         modal = document.getElementById(currentModal);
-        alert(currentModal);
         displaymodal()
+    } else if (uname == "☐" && pword == "box") {
+      currentModal = "Box";
+      modal = document.getElementById(currentModal);
+      displaymodal()
     } else {
         alert("Incorrect Username or Password.")
     }
