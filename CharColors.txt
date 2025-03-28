@@ -3,8 +3,10 @@ Boss: #151B54
 Box: #3F2C1F
 Carson: #3A3B3C
 Cecil: #FF00BA
-
 Danassi: #000000
+Dr. Boomer: #2B2F37
+Iovites: #2E5391
 King Lard: #A17FFF
 Leo: #FFA500
 Pygmal: #E799A3
+Tom Jones: #7F3300
