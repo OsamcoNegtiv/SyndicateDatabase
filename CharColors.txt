@@ -10,6 +10,7 @@ Iovites: #2E5391
 King Lard: #A17FFF
 Leo: #FFA500
 Pygmal: #E799A3
+Remmy: #596686
 Sarah: #007F00
 Tom Jones: #7F3300
 UwU Sempai: #003AFF
