@@ -1,7 +1,10 @@
-Ante: #00008B
+Ante: #3F48CC
 Boss: #151B54
-Box: #473810
+Box: #3F2C1F
 Carson: #3A3B3C
-King Lard: #FFCBA4
+Cecil: #FF00BA
+
+Danassi: #000000
+King Lard: #A17FFF
 Leo: #FFA500
 Pygmal: #E799A3
