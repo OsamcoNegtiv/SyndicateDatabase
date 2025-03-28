@@ -1,3 +1,4 @@
+Amphibole: #EF4DFF, #29DFFF, #FFFF88
 Ante: #3F48CC
 Boss: #151B54
 Box: #3F2C1F
@@ -9,4 +10,5 @@ Iovites: #2E5391
 King Lard: #A17FFF
 Leo: #FFA500
 Pygmal: #E799A3
+Sarah: #98F516
 Tom Jones: #7F3300

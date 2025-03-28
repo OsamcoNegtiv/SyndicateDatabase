@@ -56,7 +56,7 @@ function loginscript() {
       currentModal = "Simon";
       modal = document.getElementById(currentModal);
       displaymodal()
-    } else if (uname == "TheBoss" && pword == "DieSiedler-Kosmos-1995") {
+    } else if (uname == "Big_Boss" && pword == "DieSiedler-Kosmos-1995") {
       currentModal = "Boss";
       modal = document.getElementById(currentModal);
       displaymodal()
