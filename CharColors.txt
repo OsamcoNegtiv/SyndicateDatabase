@@ -10,5 +10,5 @@ Iovites: #2E5391
 King Lard: #A17FFF
 Leo: #FFA500
 Pygmal: #E799A3
-Sarah: #98F516
+Sarah: #007F00
 Tom Jones: #7F3300
