@@ -1,0 +1,7 @@
+Ante: #00008B
+Boss: #151B54
+Box: #473810
+Carson: #3A3B3C
+King Lard: #FFCBA4
+Leo: #FFA500
+Pygmal: #E799A3
