@@ -28,7 +28,7 @@ function loginscript() {
       currentModal = "Boomer";
       modal = document.getElementById(currentModal);
       displaymodal()
-    } else if (uname == "melancholicEsoterica" && pword == "myf4!rAilla") {
+    } else if (uname == "melancholicEsoterica" && pword == "myf4!rAila") {
       currentModal = "Iovites";
       modal = document.getElementById(currentModal);
       displaymodal()
@@ -62,6 +62,14 @@ function loginscript() {
       displaymodal()
     } else if (uname == "UwUSempai" && pword == "OwOKohai") {
       currentModal = "UwUSempai";
+      modal = document.getElementById(currentModal);
+      displaymodal()
+    } else if (uname == "DancingQueen" && pword == "Wh0;sTh4TM4N") {
+      currentModal = "Jones";
+      modal = document.getElementById(currentModal);
+      displaymodal()
+    } else if (uname == "Remote-Is-Me" && pword == "£2P2bgw9/X2!cP|-JNwh0FXP(Z4^d2mh\a9") {
+      currentModal = "Remmy";
       modal = document.getElementById(currentModal);
       displaymodal()
     } else {
