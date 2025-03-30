@@ -68,7 +68,7 @@ function loginscript() {
       currentModal = "Jones";
       modal = document.getElementById(currentModal);
       displaymodal()
-    } else if (uname == "Remote-Is-Me" && pword == "£2P2bgw9/X2!cP|-JNwh0FXP(Z4^d2mh\a9") {
+    } else if (uname == "Remote-Is-Me" && pword == "£2P2bgw9/X2!cP|-JNwh0FXP(Z4^d2mha9") {
       currentModal = "Remmy";
       modal = document.getElementById(currentModal);
       displaymodal()
