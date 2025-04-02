@@ -72,6 +72,10 @@ function loginscript() {
       currentModal = "Remmy";
       modal = document.getElementById(currentModal);
       displaymodal()
+    } else if (uname == "☐" && pword == "box") {
+      currentModal = "Box";
+      modal = document.getElementById(currentModal);
+      displaymodal()
     } else {
         alert("Incorrect Username or Password.")
     }
